@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s24/jpa02-kaimaeda
 
-Deployed at: https://jpa02-kai-maeda.dokku-02.cs.ucsb.edu/
+Deployed at: http://jpa02-kai-maeda.dokku-02.cs.ucsb.edu/
 
 # About this repo
 
